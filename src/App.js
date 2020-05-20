@@ -10,11 +10,11 @@ function App() {
         <p>Hola Mama, Feliz cumpleaños</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://media.giphy.com/media/3ohhwmQ0xIg8W3pHd6/200w_d.gif"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Pilo, haz click aca
         </a>
       </header>
     </div>
